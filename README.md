@@ -53,3 +53,39 @@ Here I will be updating my detailed solutions to coding problems of 6 Companies,
 - [x] Game of Dungeon
 - [x] People aware of secret
 - [x]Kth smallest Trimmed number
+
+
+### Challenge Company 3 : Flipkart
+- [x] Partition to K Equal Sum Subsets
+- [x] Sale and Offers at Flipkart BBD
+- [x] Remove Zero Sum Consecutive Nodes
+- [x] Winner of the Game
+- [x] Finding the Mountain Array
+- [x] Number of ways to separate Numbers
+- [x] City With the Smallest Number of Neighbors at a Threshold Distance
+- [x] Closest Primes in Range
+- [x] Top K frequent Words
+- [x] Distant Barcodes\
+- [x] The new game to Play
+- [x] Check If a String Contains All Binary Codes of Size K
+- [x] Max Area of Island
+- [x] Custom String Sorting
+- [x] House Robber - Very Imp.
+
+### Challenge Company 6: Amazon
+
+- [x] Shuffle an array
+- [x] Cheapest Flights with K stops (Flight system in Europe)
+- [x] Split String into maximum number of Unique Substrings
+- [x] Tweet Count per Frequency
+- [x] Maximum sum of hourglass
+- [x] Maximum Subarray Min Product (Amazon Fresh and the team)
+- [x] Dota2 Senate
+- [x] Destroying Asteroids
+- [x] Most Popular Video Creator
+- [x] Number of Matching Subsequences (The stewart and the puppy)
+- [x] Number of ways to reach a position
+- [x] Maximum Length of Repeated Subarray
+- [x] Top K frequent words
+- [x] Last Moment before all ants Fall out
+- [x] Generate Random point in a circle

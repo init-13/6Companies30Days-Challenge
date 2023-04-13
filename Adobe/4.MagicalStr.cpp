@@ -1,6 +1,7 @@
 class Solution {
 public:
   /*
+  
   Start from curr index
   if curr is 1 push back currele
   else pushback currele 2 times

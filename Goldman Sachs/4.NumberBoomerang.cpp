@@ -3,7 +3,6 @@ public:
  /* for each i store count of each unique distances from 0 to n except i.
     add count*(count-1) for each map values 
 
-    
  */
     long long dis2(vector<int>&A, vector<int>&B){
         return pow((A[0]-B[0]),2) + pow((A[1]-B[1]),2);
